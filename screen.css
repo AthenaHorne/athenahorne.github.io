@@ -31,12 +31,14 @@ header {
 }
 
 header h1 {
+  color: #999
   margin: 0;
   font-weight: bold;
   font-size: 165%;
 }
 
 header p {
+  color:999
   margin: 0;
 }
 .site-nav{
@@ -45,7 +47,7 @@ header p {
 }
 .site-nav a {
   display: block;
-  color: #63665e;
+  color: #999;
   text-decoration: none;
   padding: 10px 20px;
   border: 3px solid rgb(5, 82, 28);
