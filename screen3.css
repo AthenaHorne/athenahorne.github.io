@@ -16,14 +16,14 @@ html {
     .container {
     max-width: 940px;
     margin: auto;
-      color: #82f7ca;
+      color: #455e54;
     }
     
     header {
      
       padding-top: 20px;
       padding-bottom: 20px;
-      color: #0f2927;
+      color: #04554e;
       
     }
     
@@ -110,7 +110,6 @@ html {
   .col-dino-companion{
       width: 60%;
   }
-  table th,
   table td{
       border: 1px solid rgb(66, 78, 44) ;
       padding: 10px;
@@ -120,7 +119,7 @@ html {
   }
   
   table tbody tr:nth-child(even) {
-      background-color: rgb(45, 54, 18);
+      background-color: #999;
   }
   table th{
       text-align: center;
@@ -130,6 +129,8 @@ html {
   }
   table td{
       text-align: center;
-      font-size: 85%;  
+      font-size: 85%;
+      font-weight: bold;
   }
   
+Footer
