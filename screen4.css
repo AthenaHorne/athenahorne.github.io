@@ -15,11 +15,11 @@ html {
       height: auto;
     }
     
-    container {
+    .container {
         
      max-width: 940px;
      margin: auto;
-     color: #999;
+     
     
     }
     
@@ -55,7 +55,8 @@ html {
       border-bottom: 3px solid #7c2802;
     }
     
-    .main-area {
+    .main-area{
+      color: #999;
       width: 66%;
       float: left;
       padding-right: 40px;
