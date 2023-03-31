@@ -27,7 +27,7 @@ img {
 header {
   padding-top: 20px;
   padding-bottom: 20px;
-  color: #c3c5bd;
+  color: #999;
 }
 
 header h1 {
@@ -40,6 +40,7 @@ header p {
   margin: 0;
 }
 .site-nav{
+  color: #999
   padding: 10px;
 }
 .site-nav a {
