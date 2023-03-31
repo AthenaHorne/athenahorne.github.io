@@ -14,9 +14,10 @@ html {
     }
     
     .container {
+    font-weight: bold;
     max-width: 940px;
     margin: auto;
-      color: #353d3a;
+      color: #8df7ce;
     }
     
     header {
@@ -40,6 +41,7 @@ html {
     }
     
     header p {
+      color: aquamarine;
       font-weight: bold;
       margin: 0;
       text-align: center;
@@ -61,6 +63,7 @@ html {
   
     }
     .sidebar {
+      color: aqua;
       width: 34%;
       float: left;
       background-color: #001b4d;
@@ -72,7 +75,7 @@ html {
     footer {
       text-align: center;
       font-size: 85%;
-      color: #4873ff;
+      color: #a7b9f3;
       padding-bottom: 20px;
       padding-top: 20px;
     }
@@ -113,14 +116,15 @@ html {
   table td{
       border: 1px solid rgb(1, 112, 163) ;
       padding: 10px;
-      color: #00526b;
   }
   table tbody tr:nth-child(odd) {
-      background-color: rgb(0, 91, 119);   
+      background-color: rgb(0, 91, 119);
+      color: rgb(0, 163, 212)
   }
   
   table tbody tr:nth-child(even) {
       background-color: rgb(0, 163, 212);
+    color: rgb(0, 91, 119);;
   }
   table th{
       text-align: center;
