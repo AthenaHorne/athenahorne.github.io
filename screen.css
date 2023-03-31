@@ -2,8 +2,7 @@ html {
   background: url('./images/index.htmlbackground .jfif') no-repeat;
   background-size: cover;
 }
-
-body {
+  body {
   font-family: Tahoma, sans-serif;
   font-size: 87%;
 }
