@@ -6,6 +6,7 @@ html {
     body {
       font-family: Tahoma, sans-serif;
       font-size: 87%;
+      color: #07f03a;
     }
     
     img {
@@ -16,7 +17,8 @@ html {
     .container {
     max-width: 940px;
     margin: auto;
-      color: #353d3a;
+      color: #09f199;
+      font-weight: bold;
     }
     
     header {
