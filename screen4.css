@@ -7,7 +7,7 @@ html {
       font-family: Tahoma, sans-serif;
       font-size: 87%;
       font-weight: bold;
-         color: #aa4f05
+      color: #999;
     }
     
     img {
@@ -18,14 +18,14 @@ html {
     .container {
     max-width: 940px;
     margin: auto;
-      color: #aa4f05;
+    
     }
     
     header {
      
       padding-top: 20px;
       padding-bottom: 20px;
-      color: #470101;
+      
       
     }
     
@@ -45,7 +45,7 @@ html {
       font-weight: bold;
       margin: 0;
       text-align: center;
-      color:burlywood
+      
     }
   
     .content-area {
@@ -67,7 +67,6 @@ html {
       width: 34%;
       float: left;
       background-color: #e4360b;
-      background-image: linear-gradient(to-bottom, rgb(21, 129, 63), rgb(121, 187, 170));
       padding: 20px 40px;
       box-sizing: border-box;
       font-size: 85%;
@@ -76,7 +75,6 @@ html {
     footer {
       text-align: center;
       font-size: 85%;
-      color: #ec0808;
       padding-bottom: 20px;
       padding-top: 20px;
     }
@@ -116,7 +114,11 @@ html {
   table td{
       border: 1px solid rgb(250, 114, 51) ;
       padding: 10px;
+      text-align: center;
+      font-size: 85%;
+      font-weight: bold;
   }
+  
   table tbody tr:nth-child(odd) {
       background-color: rgb(252, 206, 5);   
   }
@@ -124,16 +126,12 @@ html {
   table tbody tr:nth-child(even) {
       background-color: #f70808;
   }
+
   table th{
       text-align: center;
       background-color: rgb(220, 221, 127);
       color: #415f48;
       text-shadow: 1px 1px 0 rgba(0, 0, 0, .4);
-  }
-  table td{
-      text-align: center;
-      font-size: 85%;
-      font-weight: bold;
-      color:burlywood
-  }
+}
+     
   
