@@ -7,7 +7,7 @@ body {
   font-family: Tahoma, sans-serif;
   font-size: 87%;
   font-weight: bold;
-  color:#999
+  color:#BBD6B8
 }
 
 img {
@@ -27,27 +27,27 @@ img {
 header {
   padding-top: 20px;
   padding-bottom: 20px;
-  color: #999;
+  color: #AEC2B6;
 }
 
 header h1 {
-  color: #999
+  color: #DBE4C6
   margin: 0;
   font-weight: bold;
   font-size: 165%;
 }
 
 header p {
-  color:999
+  color:#AEC2B6
   margin: 0;
 }
 .site-nav{
-  color: #999
+  color: #DBE4C6
   padding: 10px;
 }
 .site-nav a {
   display: block;
-  color: #999;
+  color: #5D9C59;
   text-decoration: none;
   padding: 10px 20px;
   border: 3px solid rgb(5, 82, 28);
