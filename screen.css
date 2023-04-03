@@ -70,6 +70,7 @@ header p {
 
 .main-area p {
       font-weight: bold;
+  float: left;
 }
 
 .sidebar {
