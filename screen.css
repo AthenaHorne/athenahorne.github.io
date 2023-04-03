@@ -74,7 +74,7 @@ header p {
 
 .sidebar {
   width: 34%;
-  float: right;
+  float: left;
   background-color: #02681b;
   padding: 20px 40px;
   box-sizing: border-box;
