@@ -63,10 +63,13 @@ header p {
 }
 
 .main-area {
-  width: 66%;
   float: left;
   padding-right: 40px;
   box-sizing: border-box;
+}
+
+.main-area p {
+      font-weight: bold;
 }
 
 .sidebar {
