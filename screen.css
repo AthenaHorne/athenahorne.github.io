@@ -16,12 +16,9 @@ img {
 }
 
 .container {
-  width: 940px;
-  margin-left: auto;
-  margin-right: auto;
-  padding-left: 40px;
-  padding-right: 40px;
-  box-sizing: border-box;
+  max-width: 940px;
+  margin: auto;
+  color: #DBE4C6;
 }
 
 header {
@@ -31,18 +28,18 @@ header {
 }
 
 header h1 {
-  color: #DBE4C6
-  margin: 0;
+  color: #DBE4C6;
+  margin: auto;
   font-weight: bold;
   font-size: 165%;
 }
 
 header p {
-  color:#AEC2B6
+  color:#AEC2B6;
   margin: 0;
 }
 .site-nav{
-  color: #DBE4C6
+  color: #DBE4C6;
   padding: 10px;
 }
 .site-nav a {
