@@ -69,12 +69,13 @@ header p {
 }
 
 .main-area p {
-      font-weight: bold;
+  font-weight: bold;
   float: left;
+  max-width: 66%;
 }
 
 .sidebar {
-  width: 34%;
+  max-width: 34%;
   float: left;
   background-color: #02681b;
   padding: 20px 40px;
