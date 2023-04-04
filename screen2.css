@@ -14,10 +14,13 @@ html {
   }
   
   .container {
-  max-width: 940px;
-  max-height: 940px
-  margin: auto;
-    color: #82f7ca;
+  width: 940px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 40px;
+  padding-right: 40px;
+  box-sizing: border-box;
+  color: #82f7ca;
   }
   
   header {
