@@ -76,6 +76,7 @@ html {
     }
     
     footer {
+      font-weight:bold;
       text-align: center;
       font-size: 85%;
       color: #002B5B;
@@ -136,6 +137,7 @@ html {
       text-shadow: 1px 1px 0 rgba(0, 0, 0, .4);
   }
   table td{
+      font-weight:bold;
       text-align: center;
       font-size: 85%;  
   }
