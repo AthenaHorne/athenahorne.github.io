@@ -7,7 +7,7 @@ body {
   font-family: Tahoma, sans-serif;
   font-size: 87%;
   font-weight: bold;
-  color:#999
+  color:#999;
 }
 
 img {
@@ -74,9 +74,9 @@ header p {
   width: 34%;
   float: left;
   background-color: #02681b;
-  padding: 20px 40px;
+  padding-left: 40px; 
+  paddind-right 40px;
   box-sizing: border-box;
-  font-size: 85%;
 }
 
 footer {
