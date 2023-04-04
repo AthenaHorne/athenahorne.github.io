@@ -15,22 +15,20 @@ html {
     
     .container {
     max-width: 940px;
+    max-height: 940px;
     margin: auto;
-      color: #455e54;
+    color: #455e54;
     }
     
     header {
-     
       padding-top: 20px;
       padding-bottom: 20px;
-      color: #04554e;
-      
+      color: #04554e; 
     }
     
     header h1 {
       margin: auto;
-      font-size: 165%;
-     
+      font-size: 165%; 
     }
   
     header h2 {
