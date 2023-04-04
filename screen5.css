@@ -73,6 +73,7 @@ html {
     }
     
     footer {
+      font-weight: bold;
       text-align: center;
       font-size: 85%;
       color: #061300;
@@ -119,12 +120,14 @@ html {
   }
   table tbody tr:nth-child(odd) {
       background-color: #F2CD5C;
-      color: #F2921D;   
+      color: #F2921D;
+      font-weight: bold;
   }
   
   table tbody tr:nth-child(even) {
       background-color: #F2921D;
       color: #F2CD5C;
+      font-weight: bold;
   }
   table th{
       text-align: center;
