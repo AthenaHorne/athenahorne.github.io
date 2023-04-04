@@ -123,12 +123,14 @@ html {
   }
   table tbody tr:nth-child(odd) {
       background-color: #002B5B;
-      color: #1A5F7A;   
+      color: #1A5F7A;
+      font-weight:bold;
   }
   
   table tbody tr:nth-child(even) {
       background-color: #1A5F7A;
       color: #002B5B;
+      font-weight:bold;
   }
   table th{
       text-align: center;
