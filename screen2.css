@@ -1,5 +1,5 @@
 html {
-  background: url('images/mam.jpg') no-repeat;
+  background: url('images/dread.jpeg') no-repeat;
   background-size: cover;
   }
   
@@ -15,6 +15,7 @@ html {
   
   .container {
   max-width: 940px;
+  max-height: 940px
   margin: auto;
     color: #82f7ca;
   }
