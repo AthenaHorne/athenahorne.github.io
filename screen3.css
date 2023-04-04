@@ -1,11 +1,12 @@
 html {
-    background: url('/images/Ptera.jpeg') no-repeat;
+    background: url('./images/Ptera.jpeg') no-repeat;
     background-size: cover;
     }
     
     body {
       font-family: Tahoma, sans-serif;
       font-size: 87%;
+      color: #57C5B6;
     }
     
     img {
@@ -15,25 +16,28 @@ html {
     
     .container {
     max-width: 940px;
-    max-height: 940px;
     margin: auto;
-    color: #455e54;
+      color: #57C5B6;
+      font-weight: bold;
     }
     
     header {
+     
       padding-top: 20px;
       padding-bottom: 20px;
-      color: #04554e; 
+      color: #27E1C1;
+      
     }
     
     header h1 {
       margin: auto;
-      font-size: 165%; 
+      font-size: 165%;
+     
     }
   
     header h2 {
       font-size: 140%;
-      text-shadow: 1px 1px 0 rgba(61, 57, 1, 0.4);
+      text-shadow: 1px 1px 0 rgba(0, 0, 0, .4);
       
     }
     
@@ -44,8 +48,8 @@ html {
     }
   
     .content-area {
-      border-top: 3px solid #a0dfae;
-      border-bottom: 3px solid #53805d;
+      border-top: 3px solid #011a07;
+      border-bottom: 3px solid #011a07;
     }
     
     .main-area {
@@ -61,7 +65,8 @@ html {
     .sidebar {
       width: 34%;
       float: left;
-      background-color: #ebfdb7;
+      color: #0EA293;
+      background-color: #159895;
       background-image: linear-gradient(to-bottom, rgb(21, 129, 63), rgb(121, 187, 170));
       padding: 20px 40px;
       box-sizing: border-box;
@@ -71,7 +76,7 @@ html {
     footer {
       text-align: center;
       font-size: 85%;
-      color: #999;
+      color: #002B5B;
       padding-bottom: 20px;
       padding-top: 20px;
     }
@@ -108,27 +113,27 @@ html {
   .col-dino-companion{
       width: 60%;
   }
+  table th,
   table td{
-      border: 1px solid rgb(66, 78, 44) ;
+      border: 1px solid rgb(3, 175, 3) ;
       padding: 10px;
   }
   table tbody tr:nth-child(odd) {
-      background-color: rgb(181, 219, 207);   
+      background-color: #002B5B;
+      color: #1A5F7A;   
   }
   
   table tbody tr:nth-child(even) {
-      background-color: #999;
+      background-color: #1A5F7A;
+      color: #002B5B;
   }
   table th{
       text-align: center;
-      background-color: rgb(220, 221, 127);
-      color: #415f48;
+      background-color: #0EA293;
+      color: #57C5B6;
       text-shadow: 1px 1px 0 rgba(0, 0, 0, .4);
   }
   table td{
       text-align: center;
-      font-size: 85%;
-      font-weight: bold;
+      font-size: 85%;  
   }
-  
-Footer
