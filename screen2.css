@@ -7,7 +7,7 @@ html {
     body {
       font-family: Tahoma, sans-serif;
       font-size: 87%;
-      color: #07f03a;
+      color: #E5D9B6;
     }
     
     img {
@@ -18,15 +18,15 @@ html {
     .container {
     max-width: 940px;
     margin: auto;
-      color: #09f199;
+      color: #E5D9B6;
       font-weight: bold;
     }
     
     header {
-     
+     text-align: center;
       padding-top: 20px;
       padding-bottom: 20px;
-      color: #036936;
+      color: #E5D9B6;
       
     }
     
@@ -76,7 +76,7 @@ html {
     footer {
       text-align: center;
       font-size: 85%;
-      color: #061300;
+      color: #E5D9B6;
       padding-bottom: 20px;
       padding-top: 20px;
     }
@@ -119,16 +119,18 @@ html {
       padding: 10px;
   }
   table tbody tr:nth-child(odd) {
-      background-color: rgb(57, 114, 3);   
+    background-color: #A4BE7B;
+    color:#5F8D4E;
   }
   
   table tbody tr:nth-child(even) {
-      background-color: rgb(3, 114, 79);
+      background-color:#5F8D4E;
+      color: #A4BE7B;
   }
   table th{
       text-align: center;
-      background-color: rgb(2, 129, 2);
-      color: #07f03a;
+      background-color: #E5D9B6;
+      color: #285430;
       text-shadow: 1px 1px 0 rgba(0, 0, 0, .4);
   }
   table td{
