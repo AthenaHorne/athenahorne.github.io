@@ -1,5 +1,5 @@
 html {
-  background: url('images/index.htmlbackground.jfif') no-repeat;
+  background: url('images/index.htmlbackground .jfif') no-repeat;
   background-size: cover;
 }
 
@@ -9,11 +9,6 @@ body {
   font-weight: bold;
   color:#999
 }
-
-img {
-  size: fill;
-}
-
 
 .container {
   width: 940px;
