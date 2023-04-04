@@ -6,8 +6,6 @@ html {
 body {
   font-family: Tahoma, sans-serif;
   font-size: 87%;
-  font-weight: bold;
-  color:#999;
 }
 
 img {
@@ -19,7 +17,6 @@ img {
   width: 940px;
   margin-left: auto;
   margin-right: auto;
-  background-color: #FFF;
   padding-left: 40px;
   padding-right: 40px;
   box-sizing: border-box;
@@ -28,39 +25,22 @@ img {
 header {
   padding-top: 20px;
   padding-bottom: 20px;
-  color: #c3c5bd;
+  color: #617140;
 }
 
 header h1 {
   margin: 0;
-  font-weight: bold;
+  font-weight: normal;
   font-size: 165%;
 }
 
 header p {
   margin: 0;
 }
-.site-nav{
-  padding: 10px;
-}
-.site-nav a {
-  display: block;
-  color: #63665e;
-  text-decoration: none;
-  padding: 10px 20px;
-  border: 3px solid rgb(5, 82, 28);
-}
-.site-nav ul {
-  margin: 0;
-  padding: 0;
-}
-.site-nav li{
-  list-style: none;
-  float: left;
-}
+
 .content-area {
-  border-top: 3px solid #089252;
-  border-bottom: 3px solid #057514;
+  border-top: 3px solid #e5e9dc;
+  border-bottom: 3px solid #e5e9dc;
 }
 
 .main-area {
@@ -73,10 +53,10 @@ header p {
 .sidebar {
   width: 34%;
   float: left;
-  background-color: #02681b;
-  padding-left: 40px; 
-  paddind-right 40px;
+  background-color: #e5e9dc;
+  padding: 20px 40px;
   box-sizing: border-box;
+  font-size: 85%;
 }
 
 footer {
