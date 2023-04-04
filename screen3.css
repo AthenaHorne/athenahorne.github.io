@@ -6,6 +6,7 @@ html {
     body {
       font-family: Tahoma, sans-serif;
       font-size: 87%;
+      font-weight: bold
       color: #57C5B6;
     }
     
@@ -65,7 +66,7 @@ html {
     .sidebar {
       width: 34%;
       float: left;
-      color: #0EA293;
+      color: #002B5B;
       background-color: #159895;
       background-image: linear-gradient(to-bottom, rgb(21, 129, 63), rgb(121, 187, 170));
       padding: 20px 40px;
