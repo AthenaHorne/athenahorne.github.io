@@ -58,6 +58,7 @@ html {
       float: left;
       padding-right: 40px;
       box-sizing: border-box;
+      font-weight: bold;
     }
     .main-area p{
       font-weight: bold;
