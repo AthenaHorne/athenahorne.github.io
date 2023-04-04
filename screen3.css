@@ -7,7 +7,6 @@ html {
       font-family: Tahoma, sans-serif;
       font-size: 87%;
       font-weight: bold
-      color: #57C5B6;
     }
     
     img {
@@ -49,6 +48,7 @@ html {
     }
   
     .content-area {
+      font-weight: bold;
       border-top: 3px solid #011a07;
       border-bottom: 3px solid #011a07;
     }
